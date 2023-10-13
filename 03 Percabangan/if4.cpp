@@ -6,12 +6,9 @@ int main()
     int angka;
     cin >> angka;
 
-    if (angka % 2 == 1)
-    {
+    if (angka % 2 == 1) {
         cout << "Ganjil";
-    }
-    else
-    {
+    } else {
         cout << "Genap";
     }
 }

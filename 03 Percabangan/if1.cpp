@@ -8,8 +8,7 @@ int main()
 
     cin >> n;
 
-    if (n == 50)
-    {
+    if (n == 50) {
         cout << "SETENGAH" << endl;
     }
 }

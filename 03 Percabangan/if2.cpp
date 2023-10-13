@@ -13,7 +13,10 @@ int main()
         cout << "SEMPURNA" << endl;
     }
     else
-    {
-        cout << "BELUM SEMPURNA" << endl;
-    }
+        (x == 99)
+        {
+            cout << "BELUM SEMPURNA" << endl;
+        }
+
+    return 0;
 }
